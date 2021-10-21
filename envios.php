@@ -74,7 +74,7 @@ if (!$conn) {
 
         <div class="area_principal mt-5 ml-2 mr-2">
             
-            <h5 id="mobile-2" class="title-2 ml-2 mr-2 mt-2"><span><a class=" a-title-2" href="">Enviar Documento</a></span> <span><a class="ml-2 a-title-2_active"  href="envios.php">Ver Envios</a></span></h5>
+            <h5 id="mobile-2" class="title-2 ml-2 mr-2 mt-2"><span><a class=" a-title-2" href="index.html">Enviar Documento</a></span> <span><a class="ml-2 a-title-2_active"  href="envios.php">Ver Envios</a></span></h5>
             <div class="d-flex justify-content-center">
 
             <div class="table-responsive ml-2 mr-2">

@@ -46,11 +46,11 @@
 <form action="insert.php" method="post">
     <div class="d-flex justify-content-center">
 <div class="ml-2 mr-2 mt-2">
-    <input name="arquivo" type="file" />
+    <input required name="arquivo" type="file" />
 </div>
 </div>
-<input name="tipo_atividade" class="form-control ml-2 mr-3 mt-2 col-10" placeholder="Tipo de Atividade" type="text">
-<input name="horas" class="form-control ml-2 mr-3 mt-2 col-10" placeholder="Horas" type="number">
+<input name="tipo_atividade" class="form-control ml-2 mr-3 mt-2 col-10" placeholder="Tipo de Atividade" type="text" required>
+<input required name="horas" class="form-control ml-2 mr-3 mt-2 col-10" placeholder="Horas" type="number">
 
 <button class="btn btn-success ml-2 mr-2 mt-2" type="submit">Enviar</button>
 
